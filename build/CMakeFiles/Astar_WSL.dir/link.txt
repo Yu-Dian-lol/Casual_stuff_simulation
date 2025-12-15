@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Astar_WSL.dir/src/Astar.cpp.o -o Astar_WSL  -lX11 -lGL -lpng -lpthread -lstdc++fs 

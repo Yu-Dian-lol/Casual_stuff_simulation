@@ -1,0 +1,3 @@
+/media/julia/3E72E9E872E9A4BD/CODE_D/Me/build/CMakeFiles/Astar_WSL.dir
+/media/julia/3E72E9E872E9A4BD/CODE_D/Me/build/CMakeFiles/edit_cache.dir
+/media/julia/3E72E9E872E9A4BD/CODE_D/Me/build/CMakeFiles/rebuild_cache.dir
